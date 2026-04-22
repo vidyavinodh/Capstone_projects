@@ -13,6 +13,6 @@ Each project includes detailed implementation, analysis, and results in its resp
 
 | Project | Description | GitHub Link |
 |---------|-------------|-------------|
-|Autonomous Driving(Object Detection and Safety Analysis) |The goal of this capstone project is to explore core technologies used in autonomous driving systems, including computer vision for object detection and data analysis for understanding real-world driving risks. | [View Project](https://github.com/vidyavinodh/Autonomous_Driving-Object-Detection-and-Safety-Analysis-) |
- P1 |Description | [View Project](https://github.com/vidyavinodh/California_housing_price_prediction) |
+|Autonomous Driving(Object Detection and Safety Analysis) |The goal of this capstone project is to explore core technologies used in autonomous driving systems, including computer vision for object detection and data analysis for understanding real-world driving risks. | [View Project](https://github.com/vidyavinodh/Autonomous_Driving-Object-Detection-and-Safety-Analysis-) 
+|Preserving Heritage & Enhancing Tourism with AI  |This project leverages Artificial Intelligence (AI) to support heritage preservation and tourism enhancement. It combines deep learning for image classification with data analytics and recommendation systems to provide meaningful insights and improve tourist experiences. | [View Project](https://github.com/vidyavinodh/Preserving-Heritage-Enhancing-Tourism-with-AI) |
   P1 |Description | [View Project](https://github.com/vidyavinodh/California_housing_price_prediction) |
