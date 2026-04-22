@@ -13,6 +13,6 @@ Each project includes detailed implementation, analysis, and results in its resp
 
 | Project | Description | GitHub Link |
 |---------|-------------|-------------|
-|Autonomous Driving(Object Detection and Safety Analysis) |Description | [View Project](https://github.com/vidyavinodh/California_housing_price_prediction) |
+|Autonomous Driving(Object Detection and Safety Analysis) |The goal of this capstone project is to explore core technologies used in autonomous driving systems, including computer vision for object detection and data analysis for understanding real-world driving risks. | [View Project](https://github.com/vidyavinodh/Autonomous_Driving-Object-Detection-and-Safety-Analysis-) |
  P1 |Description | [View Project](https://github.com/vidyavinodh/California_housing_price_prediction) |
   P1 |Description | [View Project](https://github.com/vidyavinodh/California_housing_price_prediction) |
